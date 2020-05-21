@@ -1,2 +1,2 @@
 samrat saha	samizzy18@gmail.com
-# use hash to ignore a file
+# use hash to ignore a line
