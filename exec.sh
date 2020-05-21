@@ -1,0 +1,1 @@
+python mail.py -u 'samizzy18@gmail.com' -t stay_tuned_template.txt -c contacts.txt -p template.yml
