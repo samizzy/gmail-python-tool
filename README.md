@@ -12,4 +12,3 @@ Visit [Google Developer Console](https://console.developers.google.com/flows/ena
 - The html template file is not purely html, there is logic for extracting subject and body of mail. Also any yaml key taken from the yaml file will be passed to the html, so you can use ${key} inside html to substitute values.
 - You also need to supply a user email id from which the email is to be sent. On the very firt run, the program will redirect you to your google page and ask you to grant permission, after access it will send the mail.
 - hit python mail.py with mentioned arguments or there is exec.sh file where this command is also present, use this if you feel too lazy to type every time.
-- After access, it will send the mail.
